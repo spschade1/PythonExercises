@@ -5,3 +5,6 @@ def area(l, w):
 
 def perimeter(l, w):
     return l + w + l + w
+
+def volume(l, w, h):
+    return l * w * h
