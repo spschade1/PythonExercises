@@ -3,4 +3,5 @@
 def area(l, w):
     return l * w
 
-
+def perimeter(l, w):
+    return l + w + l + w
